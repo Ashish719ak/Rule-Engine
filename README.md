@@ -26,8 +26,8 @@ A simple 3-tier rule engine application(Simple UI, API and Backend, Data) to det
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/BelieveInTheLimitless/Rule-Engine-with-AST
-cd Rule-Engine-with-AST
+git clone https://github.com/Ashish719ak/Rule-Engine.git
+cd Rule-Engine
 ```
 
 ### 2. Database Configuration
